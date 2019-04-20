@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "waldoai",
+  "private_key_id": "e7a52b7372e9a5a3fa0cffbc15f40e6a9d2b59d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIdaLK/u9uJ01/\nkLd5NsRmwpAAQYd1Ar+HXJJTp+jGV77tdIf4KhYB0TowQ1ODn4hzs8e9fFzWicvn\nYWupXE+I3GGRoSJMyrHG2v+EqZb4vWTP8ObRxKtHXcqnkFL0I6R3yi95tIrKSFem\n8WF1irGEM544GaxUd3S0Mx8nmoO4KgO/Ea8NEtptNlcIhkaCY6LABxU8XsoZ6K6N\nQP2/qVxp855CPaiQG/3830RyKPVpJnO6gNOHHUnV2+AkeE+QsGBVdX1yiFPGgSNA\nVcDM3Uetj2JqwqNNXjTbTsDML+wrWVVPV2G8LErkGFsyJGzn1iOajuo1HjjzAJ8S\ngrGAG8ERAgMBAAECgf8DcxQUOuYlP6ihZbNH3wVduHHbZAOdsm+8mxcGbqTiSpW9\nSWAj1W11ZrzYFCIdGhyhwgJ5dvvxbvoXkJpfp6fQ3zHSXXB8dyQPeRIw5g9Wj3MO\n7H6WXuORfTcAFm5jMr6JqEeZoKBYa2RnwK/6wrXYxyhOgkAVUIffQShLezXuteIG\n2zD8FbqbyJhiJ0Z4ZIF552PGX/6Tr+izzsZItXEm43tw1Hs3o+tZjn+/6FYhPL4R\nPynK6+xAWZ1oKtH3xA3wRBBZzUAuGraDrmAUDA8uzIHjXPX8y4vkeH7wsA8t134G\ns7yzBjZCACw3KJlq+Rv/i9XHJj1Gs+pe1NOTJgECgYEA8JhYbkY6ushkf/BpmENP\npxvA11yC0qfseRrwtXUEaKkcS5ufXLFpTMk9V+1VQLj2IZLJvJy1by08br21cYol\nIVMmPHyheWqnWxQAcIYXog4drqZC9q1j2d6+JPvsbnEO29t1SemGrGQabK7OGoRH\nHDewMIOULtt9mnP5bM9GLwECgYEA1UtrBgYGqBIcdmQH8awIk5AhRCrVf2+C78Ho\nmoeT/Z/Q0DiwmDqrVGo4K2TMNDd1gLBcZUnJmvurLVtGgLQkKswfjtlEkDrgnHDi\nHLNdCDBfecqpobwjf4rLQE7W4AQVHI8BHD8XAm5TOMYob+79uu+DgpTRjR41ogtj\nGka0ohECgYARdq1si7J1nlgVJUk04SXl9lDAERn52nCCtd7k/PJt+mBwaIJfwwzm\novDN8g8vHH3ZIAN+qk1NHZZ2X1TNQf7B9XwgBdferUwqg0Ao6sLKY4XqCG1x5FIM\nHWvl2VdnCNPQR5Sy4b2Bw95bJzEUoadbt/sU+mgGIq5ySJrBOCZbAQKBgQDK8Rs/\ne/RRbgoOy1aTp2/xly1PwsGoot0eao16mo1AwBLaS1YbQZdKllYjU6DH/gybCTKg\nXPipsdNJMJOAWeYfomBUdn06DgswTmeVj0NxSzVMmHuWG4BbFiAVa+4e70N3DMmt\nqommEnq0hjZraiWY+9NRJ2/KqXe2WsdMdQHhQQKBgQDUZ0vez7sLd7Ik+2+LQ8qP\na6p/abN+fyTA7f577uMnts9uDH5+m2DA2b/eOnjlPv5DH6lDZpIp2KwXuBBVbig6\nEEtrvgHZwM2zDy8A5urIO/6Rtw7ymgqsagZzJU4FtC1imbJLazg7sCLlJli79nmA\nVPa5/MuFEqNkVuDrpkTPLA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "teamupservice@waldoai.iam.gserviceaccount.com",
+  "client_id": "109102445483712393121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teamupservice%40waldoai.iam.gserviceaccount.com"
+}
